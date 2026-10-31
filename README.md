@@ -22,10 +22,10 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 Studying **AI & Data Science Engineering** at **SIES Graduate School of Technology**
-- 🌐 Passionate about building **responsive, user-friendly web apps**
-- 🚀 On my way to becoming a **Full-Stack Developer**
+- 🌐 Passionate about building **responsive, user-friendly web apps & intelligent AI pipelines**
+- 🚀 On my way to becoming a **Full-Stack Developer & AI Systems Engineer**
 - 🛠️ Love building projects, breaking things, and figuring out why
-- 🌱 Currently leveling up in **React** and **Node.js**
+- 🌱 Currently leveling up in **Cloud Big Data Architecture (AWS EMR / Spark)** and **Cybersecurity Simulations**
 - 💬 Always up for a good tech discussion or a collab!
 
 ---
@@ -44,15 +44,19 @@
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-**Databases & Tools**
+**Databases, Cloud & DevOps**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
 
 ### 🐍 Contribution Snake
@@ -83,18 +87,18 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
-| [Cineverse](https://github.com/Parth-1603/Cineverse) | 🎬 Movie browsing web app | JavaScript |
-| [Portfolio](https://github.com/Parth-1603/Parth_Portfolio) | 🖥️ My personal dev portfolio | HTML, CSS |
-
+| [CryptoSpark AI](https://github.com/Parth-1603/CryptoSpark-AI) | 📈 Cloud-based big data cryptocurrency prediction platform utilizing ML models for real-time market forecasting | Apache Spark, AWS S3/EMR, FastAPI, React, XGBoost |
+| [TwinShield](https://github.com/Parth-1603/TwinShield) | 🛡️ Interactive digital-twin cybersecurity simulation platform featuring 15 sandboxed attack labs and dual-view log interfaces | Next.js 14, React 18, Python, Docker |
+| [Cineverse](https://github.com/Parth-1603/Cineverse) | 🎬 Movie browsing web app with interactive dynamic search and dynamic rendering | JavaScript, HTML5, CSS3 |
+| [Portfolio](https://github.com/Parth-1603/Parth_Portfolio) | 🖥️ Personal developer portfolio highlighting software engineering & AI projects | HTML5, CSS3, JavaScript |
 ---
 
 ### 📬 Looking For
 
-🚀 Web Development Internships &nbsp;&nbsp; 🤝 Project Collaborations &nbsp;&nbsp; 📌 Learning Opportunities
+🚀 Web Development & AI/ML Internships &nbsp;&nbsp; 🤝 Project Collaborations &nbsp;&nbsp; 📌 Open Source & Cloud Projects
 
 ---
-
 
 <p align="center">Made with ❤️ and ☕ — Parth Patil</p>
